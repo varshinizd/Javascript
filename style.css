@@ -1,0 +1,19 @@
+body{
+    background:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    margin:0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#clock{
+    color:#00ffcc;
+    font-size:80px;
+    background:#111;
+    padding:30px 60px;
+    border-radius:20px;
+    box-shadow:0 0 30px #00ffcc;
+    letter-spacing:5px;
+}
